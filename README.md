@@ -26,7 +26,7 @@ PC SPECS:
 
 # My Current FPS in Games
 
-*(i lock most my games fps at 176 on most games using rtss (exept for valorant i cap at 207 in nivida control panel) to keep gpu utilization down and improve 1% lows. i also only have a 144hz oc'd slightly to 149hz so staying constiently over 155 is my main goal of most my optimizations)*
+*(i lock most my games fps at 169 on most games using rtss (exept for valorant i cap at 207 in nivida control panel) to keep gpu utilization down and improve 1% lows. i also only have a 144hz oc'd slightly to 149hz so staying constiently over 155 is my main goal of most my optimizations)*
 
 - CS2 : 1280x960 all low video settings reflex ON & low latency OFF + locked fps at 169 using RTSS = 165fps Consistent in VALVE DM + MODED DM + TDM + PREMIER. *MAX FPS NO CAP : COMING SOON   *
 
