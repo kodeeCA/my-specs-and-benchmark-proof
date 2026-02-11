@@ -28,9 +28,9 @@ PC SPECS:
 
 *(i lock most my games fps at 169 on most games using rtss (exept for valorant i cap at 207 in nivida control panel) to keep gpu utilization down and improve 1% lows. i also only have a 144hz oc'd slightly to 149hz so staying constiently over 155 is my main goal of most my optimizations)*
 
-- CS2 : 1280x960 all low video settings reflex ON & low latency OFF + locked fps at 169 using RTSS = 165fps Consistent in VALVE DM + MODED DM + TDM + PREMIER. *MAX FPS NO CAP : COMING SOON   *
+- CS2 : 1280x960 or 1280x1024 all low video settings reflex ON & low latency OFF + locked fps at 169 using RTSS = 165fps Consistent in VALVE DM + MODED DM + TDM + PREMIER. *MAX FPS NO CAP : COMING SOON   *
 
-- VALORANT : 1680x1050 all low video settings reflex ON & low latency OFF + locked fps at 199 using NVIDEA Control Pannel = 199fps Consistent in DM + TDM + COMP & exc. *MAX FPS NO CAP : COMING SOON  *
+- VALORANT : 1280x1024 all low video settings reflex ON & low latency OFF + locked fps at 199 using NVIDEA Control Pannel = 199fps Consistent in DM + TDM + COMP & exc. *MAX FPS NO CAP : COMING SOON  *
 
 - Call Of Duty Black Ops 7 : 1680x1050 all low settings render res 79% relex ON & low latency OFF + locked fps at 169 using RTSS = 150 - 165 Consistent in SND + 2v2s + FFA VS 12 BOTS with drops to 139 in intense HP and WZ situatuons with 12 player lobbys. *MAX FPS NO CAP : COMING SOON  *
 
