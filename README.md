@@ -8,13 +8,13 @@
 
 PC SPECS:
 
-- OS: WIN11 KERNELOS *(switched to as of January 2026)*
+- OS: WIN10 Kernel OS*
 
-- CPU: AMD Ryzen 5600x w/PBO -30 all cores, 5x scalar, -350 boost (max 4.35ghz)
+- CPU: AMD Ryzen 5600x
 
-- RAM: 32GB TTG DDR4 3200mhz OC'd to 3600mhz
+- RAM: 32GB TTG DDR4 3200mhz
 
-- GPU: ASUS TUF GTX 1660 SUPER OC
+- GPU: EVGA FTW RTX 3060ti OC
 
 - STORAGE: KINSGSTON 500GB NVME + 2TB HDD
 
@@ -34,7 +34,7 @@ PC SPECS:
 
 PC SPECS:
 
-- OS: WIN11 KERNELOS *(switched to as of January 2026)*
+- OS: WIN11 KERNELOS
 
 - CPU: AMD Ryzen 5600x w/PBO -30 all cores, 5x scalar, -350 boost (max 4.35ghz)
 
