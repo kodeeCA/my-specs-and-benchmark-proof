@@ -28,7 +28,7 @@ PC SPECS:
 
 
 ----------------------------------------------------------
-✩ 𝐎𝐋𝐃 𝐒𝐏𝐄𝐂𝐒 𝐀𝐍𝐃 𝐁𝐄𝐍𝐂𝐇𝐌𝐀𝐑𝐊𝐒 𝑶𝑼𝑻𝑫𝑨𝑻𝑬𝑫✩
+✩ 𝐎𝐋𝐃 𝐒𝐏𝐄𝐂𝐒 𝐀𝐍𝐃 𝐁𝐄𝐍𝐂𝐇𝐌𝐀𝐑𝐊𝐒✩
 ----------------------------------------------------------
 
 *OUTDATED AS OF MARCH 2026 NEW SPECs/PC ABOVE* 
@@ -55,9 +55,8 @@ PC SPECS:
 
 <img width="1920" height="1080" alt="q6No1qwYmf" src="https://github.com/user-attachments/assets/4d752109-8633-4885-a29f-96d22d5f9442" />
 
-------------------------------------
 
-# My Current FPS in Games
+# My Old FPS in Games
 
 *(i lock most my games fps at 169 on most games using rtss (exept for valorant i cap at 207 in nivida control panel) to keep gpu utilization down and improve 1% lows. i also only have a 144hz oc'd slightly to 149hz so staying constiently over 155 is my main goal of most my optimizations)*
 
@@ -67,8 +66,7 @@ PC SPECS:
 
 - Call Of Duty Black Ops 7 : 1680x1050 all low settings render res 79% relex ON & low latency OFF + locked fps at 169 using RTSS = 150 - 165 Consistent in SND + 2v2s + FFA VS 12 BOTS with drops to 139 in intense HP and WZ situatuons with 12 player lobbys. *MAX FPS NO CAP : COMING SOON  *
 
-----------------------------------------
-
+-------------------------------------------------------------------------------------------
 # extras
 
 - RTSS for locking fps: https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download/
