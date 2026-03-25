@@ -66,7 +66,6 @@ PC SPECS:
 
 - Call Of Duty Black Ops 7 : 1680x1050 all low settings render res 79% relex ON & low latency OFF + locked fps at 169 using RTSS = 150 - 165 Consistent in SND + 2v2s + FFA VS 12 BOTS with drops to 139 in intense HP and WZ situatuons with 12 player lobbys. *MAX FPS NO CAP : COMING SOON  *
 
--------------------------------------------------------------------------------------------
 # extras
 
 - RTSS for locking fps: https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download/
