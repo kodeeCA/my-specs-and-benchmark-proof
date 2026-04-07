@@ -1,7 +1,36 @@
 <a href='https://ko-fi.com/F1F61V3VOV' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
-✩ 𝐍𝐄𝐖 𝐒𝐏𝐄𝐂𝐒 𝐀𝐍𝐃 𝐁𝐄𝐍𝐂𝐇𝐌𝐀𝐑𝐊𝐒 𝐀𝐒 𝐎𝐅 𝐌𝐀𝐑𝐂𝐇 𝟐𝟎𝟐𝟔 ✩
+✩ 𝐒𝐏𝐄𝐂𝐒 𝐀𝐍𝐃 𝐁𝐄𝐍𝐂𝐇𝐌𝐀𝐑𝐊𝐒 𝓐𝓟𝓡𝓘𝓛 𝟐𝟎𝟐𝟔 ✩
+
+PC SPECS:
+
+- OS: WIN10 LTSC IoT 2021
+
+- CPU: AMD Ryzen 5600x
+
+- RAM: 32GB TTG DDR4 356600mhz
+
+- GPU: EVGA FTW RTX 3060ti OC
+
+- STORAGE: KINSGSTON 500GB NVME + 2TB HDD
+
+- Monitor: MSI 149hz IPS
+
+- MOUSE: VGN Dragonfly F1
+
+- KEYBOARD: AKKO 9009 Retro 3068
+
+- CONTROLLER: Gamesir G7 PRO
+
+<img width="1920" height="1080" alt="oZMvQuxVkX" src="https://github.com/user-attachments/assets/193b3931-0f39-45e5-afcf-e36ccc9f5447" />
+
+
+----------------------------------------------------------------
+
+✩  𝐒𝐏𝐄𝐂𝐒 𝐀𝐍𝐃 𝐁𝐄𝐍𝐂𝐇𝐌𝐀𝐑𝐊𝐒 - 𝐌𝐀𝐑𝐂𝐇 𝟐𝟎𝟐𝟔 (OLD) ✩
+
 ------------------------------------------------------------------------------
+
   
 PC SPECS:
 
@@ -26,10 +55,12 @@ PC SPECS:
 <img width="1920" height="1080" alt="IAxdX3hoR6" src="https://github.com/user-attachments/assets/898e3190-e384-40e6-b9cc-d6ca56b3bcd3" />
 
 
+----------------------------------------------------------
+
+✩ 𝐎𝐋𝐃 𝐒𝐏𝐄𝐂𝐒 𝐀𝐍𝐃 𝐁𝐄𝐍𝐂𝐇𝐌𝐀𝐑𝐊𝐒✩
 
 ----------------------------------------------------------
-✩ 𝐎𝐋𝐃 𝐒𝐏𝐄𝐂𝐒 𝐀𝐍𝐃 𝐁𝐄𝐍𝐂𝐇𝐌𝐀𝐑𝐊𝐒✩
-----------------------------------------------------------
+
 
 *OUTDATED AS OF MARCH 2026 NEW SPECs/PC ABOVE* 
 
