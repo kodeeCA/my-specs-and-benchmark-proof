@@ -8,7 +8,7 @@ PC SPECS:
 
 - CPU: AMD Ryzen 5600x
 
-- RAM: 32GB TTG DDR4 356600mhz
+- RAM: 32GB TTG DDR4 3533mhz 1766 FCLK
 
 - GPU: EVGA FTW RTX 3060ti OC
 
@@ -22,7 +22,7 @@ PC SPECS:
 
 - CONTROLLER: Gamesir G7 PRO
 
-<img width="1920" height="1080" alt="oZMvQuxVkX" src="https://github.com/user-attachments/assets/193b3931-0f39-45e5-afcf-e36ccc9f5447" />
+<img width="1920" height="1080" alt="oZMvQuxVkX" src="https://github.com/user-attachments/assets/cf4c15cb-e991-4be6-ad6a-5c7c0eb9d838" />
 
 
 ----------------------------------------------------------------
