@@ -1,5 +1,8 @@
+<a href='https://ko-fi.com/F1F61V3VOV' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
 ＡＳ ＯＦ ＡＰＲＩＬ １８ｔｈ ２０２６
 
+[﻿ＢＥＳＴ　ＷＡＹ　ＴＯ　ＩＮＳＴＡＬＬ　ＷＩＮＤＯＷＳ](https://github.com/fwcct/best-way-to-install-windows-2026)
 
 <img width="1099" height="622" alt="IMG_0543" src="https://github.com/user-attachments/assets/ae3ea694-e1b2-4cda-a06b-b839ff35d6cb" />
 
