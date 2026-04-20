@@ -1,6 +1,6 @@
 <a href='https://ko-fi.com/F1F61V3VOV' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
-ＡＳ ＯＦ ＡＰＲＩＬ １８ｔｈ ２０２６
+ＡＳ - ＯＦ - ＡＰＲＩＬ - １８ｔｈ - ２０２６
 
 [﻿ＢＥＳＴ　ＷＡＹ　ＴＯ　ＩＮＳＴＡＬＬ　ＷＩＮＤＯＷＳ](https://github.com/fwcct/best-way-to-install-windows-2026)
 
