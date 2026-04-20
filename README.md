@@ -23,7 +23,7 @@ PC SPECS:
 
 - Monitor: MSI 149hz IPS
 
-- MOUSE: VGN Dragonfly F1
+- MOUSE: A.S R9 8K
 
 - KEYBOARD: AKKO 9009 Retro 3068
 
