@@ -1,4 +1,4 @@
-ⒶⓈ ⓄⒻ ⒶⓅⓇⒾⓁ ①⑧ⓣⓗ ②⓪②⑥
+ＡＳ ＯＦ ＡＰＲＩＬ １８ｔｈ ２０２６
 
 
 <img width="1099" height="622" alt="IMG_0543" src="https://github.com/user-attachments/assets/ae3ea694-e1b2-4cda-a06b-b839ff35d6cb" />
