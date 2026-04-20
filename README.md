@@ -1,1 +1,1 @@
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/jTYZsKk" data-context="false" ><a href="//imgur.com/a/jTYZsKk"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img width="1099" height="622" alt="IMG_0543" src="https://github.com/user-attachments/assets/ae3ea694-e1b2-4cda-a06b-b839ff35d6cb" />
